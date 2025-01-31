@@ -11,6 +11,8 @@
 <a href="https://www.instagram.com/wellersonvls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
 
+### Badges:
+
 ### Main skills:
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
