@@ -12,6 +12,7 @@
 </div> 
 
 ### Badges:
+[![AWS Academy](https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/21e08313-87b2-4a04-a97b-83fea557600d/public_url)
 
 ### Main skills:
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)&nbsp; 
