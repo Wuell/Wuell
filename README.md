@@ -6,8 +6,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wuell&show_icons=true&count_private=true&hide_border=true&title_color=fc5e24&icon_color=fc4e54&text_color=c9d1d9&bg_color=0d1117" alt="Wellerson Nascimento github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuell&layout=compact&hide_border=true&title_color=ff5c29&text_color=ff6903&bg_color=0d1117" />
 </div>
-
+  
+  ![Snake animation](https://github.com/Wuell/Wuell/blob/output/github-contribution-grid-snake.svg)
+  
 <div align="center">  
+<a href="https://www.instagram.com/wellersonvls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.instagram.com/wellersonvls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
 
